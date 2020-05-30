@@ -25,11 +25,15 @@ Calculadora simples em C#
 
 
 
+#
+
 # Visual Studio 2013 Ultimate:
 
 - Esse software foi desenvolvido utilizando a IDE Visual Studio 2013 Ultimate - Update 5 
 
 
+
+#
 
 #### Melhorias Previstas
 
