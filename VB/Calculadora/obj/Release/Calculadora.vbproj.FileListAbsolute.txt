@@ -1,0 +1,76 @@
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.2 - Copia\Calculadora\bin\Release\Calculadora.exe.config
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.2 - Copia\Calculadora\bin\Release\Calculadora.exe
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.2 - Copia\Calculadora\bin\Release\Calculadora.pdb
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.2 - Copia\Calculadora\bin\Release\Calculadora.xml
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.2 - Copia\Calculadora\obj\Release\Calculadora.AboutApp.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.2 - Copia\Calculadora\obj\Release\Calculadora.CheckUpdate.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.2 - Copia\Calculadora\obj\Release\Calculadora.CMD.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.2 - Copia\Calculadora\obj\Release\Calculadora.DuelTime.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.2 - Copia\Calculadora\obj\Release\Calculadora.DuelTimeSettings.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.2 - Copia\Calculadora\obj\Release\Calculadora.Form1.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.2 - Copia\Calculadora\obj\Release\Calculadora.Resources.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.2 - Copia\Calculadora\obj\Release\Calculadora.vbproj.GenerateResource.Cache
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.2 - Copia\Calculadora\obj\Release\Calculadora.exe
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.2 - Copia\Calculadora\obj\Release\Calculadora.xml
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.2 - Copia\Calculadora\obj\Release\Calculadora.pdb
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.2\Calculadora\bin\Release\Calculadora.exe.config
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.2\Calculadora\obj\Release\Calculadora.exe
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.2\Calculadora\obj\Release\Calculadora.xml
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.2\Calculadora\obj\Release\Calculadora.pdb
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.3\Calculadora\bin\Release\Calculadora.exe.config
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.3\Calculadora\bin\Release\Calculadora.exe
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.3\Calculadora\bin\Release\Calculadora.pdb
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.3\Calculadora\bin\Release\Calculadora.xml
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.3\Calculadora\obj\Release\Calculadora.AboutApp.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.3\Calculadora\obj\Release\Calculadora.CheckUpdate.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.3\Calculadora\obj\Release\Calculadora.CMD.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.3\Calculadora\obj\Release\Calculadora.DuelTime.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.3\Calculadora\obj\Release\Calculadora.DuelTimeSettings.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.3\Calculadora\obj\Release\Calculadora.Form1.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.3\Calculadora\obj\Release\Calculadora.Resources.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.3\Calculadora\obj\Release\Calculadora.vbproj.GenerateResource.Cache
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.3\Calculadora\obj\Release\Calculadora.exe
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.3\Calculadora\obj\Release\Calculadora.xml
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.3\Calculadora\obj\Release\Calculadora.pdb
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.3\Calculadora\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.3\Calculadora\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.3\Calculadora\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.3\Calculadora\bin\Release\Microsoft.WindowsAPICodePack.pdb
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.3\Calculadora\obj\Release\Calculadora.vbprojResolveAssemblyReference.cache
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.4\Calculadora\bin\Release\Calculadora.exe.config
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.4\Calculadora\obj\Release\Calculadora.exe
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.4\Calculadora\obj\Release\Calculadora.xml
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.4\Calculadora\obj\Release\Calculadora.pdb
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.4\Calculadora\bin\Release\Calculadora.exe
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.4\Calculadora\bin\Release\Calculadora.pdb
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.4\Calculadora\bin\Release\Calculadora.xml
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.4\Calculadora\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.4\Calculadora\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.4\Calculadora\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.4\Calculadora\bin\Release\Microsoft.WindowsAPICodePack.pdb
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.4\Calculadora\obj\Release\Calculadora.vbprojResolveAssemblyReference.cache
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.4\Calculadora\obj\Release\Calculadora.AboutApp.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.4\Calculadora\obj\Release\Calculadora.CheckUpdate.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.4\Calculadora\obj\Release\Calculadora.CMD.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.4\Calculadora\obj\Release\Calculadora.DuelTime.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.4\Calculadora\obj\Release\Calculadora.DuelTimeSettings.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.4\Calculadora\obj\Release\Calculadora.Form1.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.4\Calculadora\obj\Release\Calculadora.Resources.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 1.0.4\Calculadora\obj\Release\Calculadora.vbproj.GenerateResource.Cache
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 2.0.0\Calculadora\bin\Release\Calculadora.exe.config
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 2.0.0\Calculadora\obj\Release\Calculadora.exe
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 2.0.0\Calculadora\obj\Release\Calculadora.xml
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 2.0.0\Calculadora\obj\Release\Calculadora.pdb
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 2.0.0\Calculadora\bin\Release\Calculadora.exe
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 2.0.0\Calculadora\bin\Release\Calculadora.pdb
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 2.0.0\Calculadora\bin\Release\Calculadora.xml
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 2.0.0\Calculadora\obj\Release\Calculadora.vbprojResolveAssemblyReference.cache
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 2.0.0\Calculadora\obj\Release\Calculadora.AboutApp.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 2.0.0\Calculadora\obj\Release\Calculadora.CheckUpdate.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 2.0.0\Calculadora\obj\Release\Calculadora.CMD.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 2.0.0\Calculadora\obj\Release\Calculadora.DuelLog.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 2.0.0\Calculadora\obj\Release\Calculadora.DuelTime.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 2.0.0\Calculadora\obj\Release\Calculadora.DuelTimeSettings.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 2.0.0\Calculadora\obj\Release\Calculadora.Form1.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 2.0.0\Calculadora\obj\Release\Calculadora.Resources.resources
+C:\Users\Heitor\Desktop\Bisneto\Windows Forms\Calculadora\Calculadora 2.0.0\Calculadora\obj\Release\Calculadora.vbproj.GenerateResource.Cache
