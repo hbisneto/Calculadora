@@ -24,7 +24,7 @@ Calculadora simples em VB.NET com extensão adicional de contador de pontos do j
 - Transforma números positivos em números negativos e vice-versa
 - Buscar por Atualizações
 
-
+#
 
 # Monstros de Duelo
 
@@ -56,26 +56,31 @@ Para acessar o jogo, na tela inicial aperte "CTRL + R" no teclado. A janela de c
 
 A janela de comandos também pode mostrar a data atual de acordo com o horário do seu computador. Basta usar o comando "CurrentTime".
 
-
+#
 
 # Visual Studio 2013 Ultimate:
 
 - Esse software foi desenvolvido utilizando a IDE Visual Studio 2013 Ultimate - Update 5 
+
 #
 
 # Update Logs
+
 #### Versão 1.0.1
 - Correção de erros relacionados a operação de multiplicação
 - Pequenas mudanças de visual
+
 #
 
 #### Versão 1.0.2
+
 - Mudanças na interface de usuário
 - Cores de fundo das janelas foram padronizadas
 - Alterações no padrão de ícones da aplicação
 - Adicionado o icone "÷" no botão de operação de divisão
 - Alteração no tamanho da fonte da calculadora
 - Correções de pequenos erros foram aplicadas
+
 #
 
 #### Versão 1.0.3.257
@@ -99,7 +104,8 @@ A janela de comandos também pode mostrar a data atual de acordo com o horário 
 
 - Correção de pequenos erros de texto na janela de atualização
 
-  #
+
+#
 
 #### Versão 1.0.4.257
 
@@ -107,8 +113,8 @@ A janela de comandos também pode mostrar a data atual de acordo com o horário 
 
   - Correções de pequenos erros por trás dos bastidores
 
-    #
-  
+
+#
 
 #### Versão 2.0.0.0 - Codinome: SOL
 
