@@ -1,0 +1,11 @@
+C:\Users\Heitor\Desktop\Bisneto\C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Heitor\Desktop\Bisneto\C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Heitor\Desktop\Bisneto\C#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Heitor\Desktop\Bisneto\C#\Calculadora\Calculadora\obj\Debug\Calculadora.AboutApp.resources
+C:\Users\Heitor\Desktop\Bisneto\C#\Calculadora\Calculadora\obj\Debug\Calculadora.AboutBox1.resources
+C:\Users\Heitor\Desktop\Bisneto\C#\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Heitor\Desktop\Bisneto\C#\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Heitor\Desktop\Bisneto\C#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Heitor\Desktop\Bisneto\C#\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Heitor\Desktop\Bisneto\C#\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Heitor\Desktop\Bisneto\C#\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
