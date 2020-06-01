@@ -1,5 +1,5 @@
 
-# Calculadora
+# Calculadora - Bisneto
 
 Calculadora simples em VB.NET com extensão adicional de contador de pontos do jogo "Monstros de Duelo" (Yu-Gi-Oh!)
 
