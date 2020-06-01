@@ -86,22 +86,14 @@ A janela de comandos também pode mostrar a data atual de acordo com o horário 
 #### Versão 1.0.3.257
 
 - Implementação do "Live Preview":
-  
   - Agora é possível ver o histórico de números inseridos antes de cálculo
-  
 - Alterações nas cores de tema
-
 - Implementação de status de progresso na barra de tarefas (TaskBar) quando baixando atualização
-
 - Implementação de recurso de "Easter-Egg" quando o botão de igual "=" é clicado na Calculadora
-
 - Melhorias no sistema "CMD". Implementação de novos comandos:
-
   - "Commands": O novo comando lista os comandos válidos de entrada
   - "CurrentTime": Comando mostra relógio com data, hora e segundos.
-
 - Correção no botão de multiplicação que mostrava a operação em um tamanho de fonte maior que as outras operações
-
 - Correção de pequenos erros de texto na janela de atualização
 
 
@@ -110,7 +102,6 @@ A janela de comandos também pode mostrar a data atual de acordo com o horário 
 #### Versão 1.0.4.257
 
 - Revisão de Software:
-
   - Correções de pequenos erros por trás dos bastidores
 
 
@@ -121,49 +112,36 @@ A janela de comandos também pode mostrar a data atual de acordo com o horário 
 A atualização conta com a implementação de novas operações e funções de memória. Entre elas:
 
 - Potenciação
-
 - Raiz Quadrada
-
 - Possibilidade de dividir 1 pelo número escolhido
-
 - Possibilidade de limpar último digito inserido
-
 - Adicionar cálculo na memória
-
 - Subtrair cálculo da memória
-
 - Limpar memória
-
 - Mostrar memória
+
+#### Interface:
   
-
-  #### Interface:
-
 - Nova padronização de tamanhos de botões
-
 - Implementação do nome do projeto em "Sobre Calculadora"
-
 - Implementação do comando "Dueltime" no CMD
-
 - Implementação da variação do comando "CurrentTime" no CMD
-  
 
-  #### Monstros de Duelo:
-
+#### Monstros de Duelo:
 - Implementação da janela de "Log de Duelo". Agora é possível ver o histórico de pontos do jogo.
-  
 
-  #### Correções de erros:
+#### Correções de erros:
 
 - Corrigido o erro de interface que não mostrava a cor do tema do app
-
 - Correções de erros na lógica de alguns cálculos
-
 - Remoção do histórico de cálculos no visor
-
 - Correções de erro em "Monstros de Duelo" quando "Seto Kaiba", "Chazz Princeton" e "Jaden Yuki" eram escolhidos como personagem
-
 - Correções de erros quando baixando atualizações:
-
   - Caso alguma versão da Calculadora já esteja na Área de Trabalho e algum problema na hora de atualizar ocorra, para atualizar para a versão 2.0 é recomendado que a versão anterior seja movida para outra pasta para que a atualização possa ser completada.
     Esse e outros erros relacionados a atualização de software já foram corrigidos para que não ocorram problemas futuros.
+
+
+
+#
+
+Copyright © 2020 Heitor Bisneto. All rights reserved.
