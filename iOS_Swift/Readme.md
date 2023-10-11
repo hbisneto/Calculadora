@@ -16,9 +16,9 @@ Calculadora simples em Swift para iOS
 
 #
 
-# Xcode 9.2:
+# Xcode 13.2.1:
 
-- Esse software foi desenvolvido utilizando a IDE Xcode 9.2 
+- Esse software foi desenvolvido utilizando a IDE Xcode 13.2.1
 
 
 
